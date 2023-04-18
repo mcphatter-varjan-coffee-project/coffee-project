@@ -67,3 +67,8 @@ input, select {
     background-color: transparent;
     color: inherit;
 }
+
+img {
+    border-radius: 10%;
+    margin-bottom: 5px;
+}
