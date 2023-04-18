@@ -105,7 +105,6 @@ var bodyBgColor = document.getElementById('body-bg-color');
 var darkModeSwitch = document.getElementById('dark-mode-switch');
 var modeText = document.getElementsByClassName('form-check-label');
 var coffeeDisplay = document.getElementById('coffeeDisplay');
-var inputBoxes = document.querySelector('input');
 
 // displays the array of coffees onto the html page
 tbody.innerHTML = renderCoffees(coffees);
